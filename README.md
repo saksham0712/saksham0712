@@ -32,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham0712&show_icons=true&locale=en&layout=compact" alt="saksham0712" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham0712&show_icons=true&locale=en" alt="saksham0712" /></p>
+
+<img src="https://raw.githubusercontent.com/sammorozov/sammorozov/main/assets/github-snake.svg" />
