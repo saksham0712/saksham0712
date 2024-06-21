@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sakshamverma626@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z2oDg2ol-5oo3H0MTU5JpDh96zgtUhze/view](https://drive.google.com/file/d/1z2oDg2ol-5oo3H0MTU5JpDh96zgtUhze/view)
+- 📄 Know about my experiences [Google Drive link](https://drive.google.com/file/d/1C4hyUIHUfdDK1h5iDZOpZFm5Ye_KHCd9/view?usp=drive_link)
 
 - ⚡ Fun fact **I think i am Funny, But very serious while working**
 
