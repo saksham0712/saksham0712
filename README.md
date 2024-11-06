@@ -1,4 +1,6 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1192/1*jXusXvCfxECPU_Jh9S_E3w.jpeg)
+
+<img align="center" alt="coding" width="100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+
 
 <h1 align="center">Hi 👋, I'm Saksham Verma</h1>
 <h3 align="center">Passionate Full-Stack Developer | Crafting digital experiences from concept to completion</h3>
