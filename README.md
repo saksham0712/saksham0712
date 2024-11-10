@@ -9,7 +9,7 @@
 
 - 🔥 Skilled in **MERN Stack, Next.js, and API Integration**
 - 🌱 Currently exploring Next.js, Flutter Flow, and Blockchain.
-- 💼 **Check out my work**: [GitHub](https://github.com/saksham0712)
+- 💼 **Check out my work**: [GitHub Reps](https://github.com/saksham0712?tab=repositories)
 - 📫 **Let’s connect**: **sakshamverma626@gmail.com**
 - 🎉 Fun fact: I bring a sense of humor but focus intensely while coding.
 
